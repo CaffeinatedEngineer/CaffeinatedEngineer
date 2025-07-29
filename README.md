@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓Final Year Student @ VIT <br>⚡Full Stack developer - MERN , Nextjs<br>🤝 I’m looking to collaborate on open-source AI/ML research and Next.js full-stack apps<br>🌐 Check out my [portfolio](https://shashankjha04.netlify.app/)]
+🎓Final Year Student @ VIT <br>⚡Full Stack developer - MERN , Nextjs<br>🤝 I’m looking to collaborate on open-source AI/ML research and Next.js full-stack apps<br>🌐 Check out my [portfolio](https://shashankjha04.netlify.app/)
 
 
 ## 🌐 Socials:
